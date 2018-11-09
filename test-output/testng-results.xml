@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12469" started-at="2018-11-09T03:34:58Z" finished-at="2018-11-09T03:35:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12469" started-at="2018-11-09T03:34:58Z" finished-at="2018-11-09T03:35:11Z">
+      <class name="IV_V_JS.JS_execute_AsyncScript">
+        <test-method status="PASS" signature="Login()[pri:0, instance:IV_V_JS.JS_execute_AsyncScript@725bef66]" name="Login" duration-ms="12444" started-at="2018-11-09T10:34:58Z" finished-at="2018-11-09T10:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- IV_V_JS.JS_execute_AsyncScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
