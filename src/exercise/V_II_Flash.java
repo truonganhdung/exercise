@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import Flash.FlashObjectWebDriver;
 
-public class V_III_Flash {
+public class V_II_Flash {
 	@Test
 	public void main() throws InterruptedException {
 		FirefoxDriver driver = new FirefoxDriver();
